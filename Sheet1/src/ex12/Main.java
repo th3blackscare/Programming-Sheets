@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Write a Program that Reads ten Integers and
  * displays them in the reverse order in which
  * they were read
- * author : Omar Sharif - Th3BlackScare
+ * Author : Omar Sharif - Th3BlackScare
  */
 public class Main {
     public static void main(String[] args) {

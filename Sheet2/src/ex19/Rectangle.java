@@ -1,5 +1,7 @@
 package ex19;
-import java.util.Scanner;
+/*
+ * Author = Omar Sharif - Th3BlackScare
+ */
 public class Rectangle {
     double height = 1;
     double width = 1;

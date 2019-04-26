@@ -9,7 +9,6 @@
 ## Sheet 2
 <p class='util--hide'>Sheet - 2 <a href='https://github.com/th3blackscare/Programming-Sheets/tree/master/Sheet2/src/ex19'>Exercise 19</a> By Omar Sharif.</p>
 <p class='util--hide'>Sheet - 2 <a href='https://github.com/th3blackscare/Programming-Sheets/tree/master/Sheet2/src/ex20'>Exercise 20</a> By Omar Sharif.</p>
-<p class='util--hide'>Sheet - 2 <a href='https://github.com/th3blackscare/Programming-Sheets/tree/master/Sheet2/src/ex21'>Exercise 21</a> By Omar Sharif.</p>
 
 ## Sheet 3
   Free of dust

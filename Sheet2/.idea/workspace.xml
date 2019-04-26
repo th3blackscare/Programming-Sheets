@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee431e8-03e1-49ff-8836-6bae76eb75e2" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/ex24/fan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -92,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ex24/fan.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+            <state relative-caret-position="650">
+              <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
               <folding>
                 <element signature="e#357#358#0" expanded="true" />
                 <element signature="e#376#377#0" expanded="true" />
@@ -143,6 +142,12 @@
       </list>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1280" />
+    <option name="y" value="-93" />
+    <option name="width" value="1280" />
+    <option name="height" value="741" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -172,7 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556296435158" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556299156994" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -274,18 +279,17 @@
       <option name="presentableId" value="Default" />
       <updated>1556279235950</updated>
       <workItem from="1556279238340" duration="2927000" />
-      <workItem from="1556285319585" duration="7702000" />
+      <workItem from="1556285319585" duration="8530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4121000" />
+    <option name="totallyTimeSpent" value="4949000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="-137" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1280" y="-93" width="1280" height="741" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23139158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23442623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -294,7 +298,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39100346" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5575658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,8 +395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex24/fan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+        <state relative-caret-position="650">
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="49" selection-end-line="54" selection-end-column="49" />
           <folding>
             <element signature="e#357#358#0" expanded="true" />
             <element signature="e#376#377#0" expanded="true" />

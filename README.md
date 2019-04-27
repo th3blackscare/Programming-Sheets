@@ -1,7 +1,7 @@
 # Programming Sheets
 # تمارين البرمجة
 ## Thanks to Fatma Ibrahim for providing me the codes of some sheets
-# Final Stage and Update for Master Branch 26,Apr,2019 6:40PM CT, Sheet 3 and 4 is delayed duo to some issues in the code's
+# Final Stage and Update for Master Branch 26,Apr,2019 6:40PM CT, Sheet 4 is delayed duo to some issues in the code's
 ## Sheet 1
 - <p class='util--hide'>Sheet - 1 <a href='https://github.com/th3blackscare/Programming-Sheets/tree/master/Sheet1/src/ex11'>Exercise 11</a> By Omar Sharif.</p>
 - <p class='util--hide'>Sheet - 1 <a href='https://github.com/th3blackscare/Programming-Sheets/tree/master/Sheet1/src/ex12'>Exercise 12</a> By Omar Sharif.</p>

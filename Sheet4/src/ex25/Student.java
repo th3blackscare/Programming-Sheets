@@ -8,15 +8,13 @@ public class Student extends person {
     public static final String Junior="Junior";
     public static final String Senior="senior";
     protected String Status;
-    public Student(String Name){
-        super(Name);
-    }
-    public Student(String Name,String Status){
-        super(Name);
-        this.Status=Status;
+    public Student(String name, String address,
+                   String phone, String email, String status) {
+        super(name, address, phone, email);
+        this.Status = status;
     }
     @Override
     public String toString(){
-        return "Name"+getName();
+        return "Student"+"\nName: "+getName()+"\nStatus: "+Status;
     }
 }

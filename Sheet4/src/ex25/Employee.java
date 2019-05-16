@@ -1,29 +1,29 @@
 package ex25;
 
 public class Employee extends person {
-    protected double Salary;
+    protected String Salary;
     protected String Office;
-    protected java.util.Date DateHired;
+    protected String DateHired;
     public Employee(String Name){
-        this(Name,0,"Null",new java.util.Date());
+        this(Name,"0","Null","Null");
     }
-    public Employee(String Name,double Salary,String Office,java.util.Date DateHired){
-        super(Name);
+    public Employee(String Name,String Salary,String Office,String DateHired){
+        super(Name,Salary,Office,DateHired);
         this.Salary=Salary;
         this.Office=Office;
         this.DateHired=DateHired;
     }
-    public void setSalary(double Salary){
+    public void setSalary(String Salary){
         this.Salary=Salary;
     }
-    public double getSalary(){
+    public String getSalary(){
         return Salary;
     }
-    public java.util.Date DateHired(){
+    public String DateHired(){
         return DateHired;
     }
     @Override
     public String toString(){
-        return "Name: "+getName()+" Salary: "+getSalary();
+        return "Employee"+"\nName: "+getName()+" \nSalary: "+getSalary()+" Office: "+Office;
     }
 }

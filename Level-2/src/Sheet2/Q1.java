@@ -35,8 +35,13 @@ public class Q1 {
             System.out.print("Enter Your Values: ");
             // take values in one line separated by [ , ] as a string
             String in = input.next();
-            // split the values by the [ , ] and append it to the first array
+
+            /*initialize a string array with out an actual size
+            * split the values by the [ , ] count the values and but the sum as a size for the array
+            * append splitted values to the  array
+            */
             String[] value = ( in.split(","));
+
             /* initialize a second array by the size of the first string array
              * input must be like 14,15,16,13,11 separated by [ , ]
              */

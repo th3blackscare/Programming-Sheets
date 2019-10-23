@@ -37,7 +37,9 @@ public class Q1 {
             String in = input.next();
             // split the values by the [ , ] and append it to the first array
             String[] value = ( in.split(","));
-            // initialize a second array by the size of the first string array
+            /* initialize a second array by the size of the first string array
+             * input must be like 14,15,16,13,11 separated by [ , ]
+             */
             int[] data = new int[value.length];
             // loop for convert strings to Integer and append it to the second array
             for(int i = 0 ; i < value.length;i++){

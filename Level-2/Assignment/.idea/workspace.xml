@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a238a220-6da2-4b6f-8461-2a682452c6a8" name="Default Changelist" comment="" />
+    <list default="true" id="b270f28b-f42b-41c6-b8c8-16169311b68c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,15 +15,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1Sbqxlu6a45OcT6bgTLAKKfyrR1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1SqYq8u72u6DZWewu7mSolp68O4" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../otlobly/OT-Fayoum" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,13 +32,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sheet2.Q1" />
-      <module name="Level-2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="IntArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.IntArrayStack" />
+      <module name="omar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sheet2.*" />
+          <option name="PATTERN" value="com.company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,9 +46,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="omar" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.IntArrayStack" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IntArrayStack" />
       </list>
     </recent_temporary>
   </component>
@@ -62,27 +72,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a238a220-6da2-4b6f-8461-2a682452c6a8" name="Default Changelist" comment="" />
-      <created>1571842891986</created>
+      <changelist id="b270f28b-f42b-41c6-b8c8-16169311b68c" name="Default Changelist" comment="" />
+      <created>1572292780628</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571842891986</updated>
-      <workItem from="1571842895427" duration="2228000" />
+      <updated>1572292780628</updated>
+      <workItem from="1572292783565" duration="5301000" />
+      <workItem from="1572345141070" duration="2576000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
